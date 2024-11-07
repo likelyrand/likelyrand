@@ -1,2 +1,2 @@
-i code in lua & luau, python.
-very much inspired by satisfactory, looking to create mods for it.
+i code in python and lua, yeah
+@likelyrand on discord
