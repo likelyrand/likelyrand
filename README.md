@@ -1,2 +1,2 @@
-i code in python and lua, yeah
+i code in python and lua.
 @likelyrand on discord
